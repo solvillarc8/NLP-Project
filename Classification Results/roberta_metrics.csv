@@ -1,0 +1,4 @@
+Class,Precision,Recall,F1-Score,Support
+Negative,0.8161,0.8604,0.8377,14000
+Neutral,0.545,0.4717,0.5057,7000
+Positive,0.8804,0.8917,0.886,14000

@@ -1,0 +1,4 @@
+Model,Overall Accuracy,Negative Precision,Negative Recall,Negative F1,Neutral Precision,Neutral Recall,Neutral F1,Positive Precision,Positive Recall,Positive F1
+DistilBERT,0.7805,0.7995,0.8537,0.8257,0.5212,0.4296,0.471,0.8653,0.8827,0.8739
+RoBERTa,0.7952,0.8161,0.8604,0.8377,0.545,0.4717,0.5057,0.8804,0.8917,0.886
+RoBERTa + Weights,0.782,0.8444,0.8034,0.8234,0.4904,0.6207,0.5479,0.9187,0.8413,0.8783
